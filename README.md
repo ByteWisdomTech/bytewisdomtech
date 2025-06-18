@@ -28,7 +28,7 @@ We believe in **learning by doing**, and we strive to empower students, self-lea
 If you're a learner, educator, or developer who believes in open education, join us!
 
 - 🌐 [Visit our website](https://bytewisdom.tech)
-- 📧 Contact: bytewisdom.tech@gmail.com
+- 📧 Contact: bytewisdomtech@gmail.com
 - 🐦 Twitter: [@ByteWisdomTech](https://twitter.com/bytewisdomtech)
 
 ---
